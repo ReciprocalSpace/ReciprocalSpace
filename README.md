@@ -18,11 +18,6 @@ The reciprocal space (or lattice) represents the Fourier transform of another la
 
 My projects so far...
 ---------------------
-- pycoilib : inductance calculator for coils of arbitrary geometries in space
-- caracnl : caracterization of the non-linear electrical properties of superconducting resonators using Vector Network Analyser data and a non-linear model (Thomas,2020)
-- vlf-mri : data analysis of Fast Field Cycling Nuclear Magnetic Resonance data acquired with a Stelar Relaxometer 
-
-
-References
-----------
-N Thomas et al 2020 New J. Phys. 22 073028 (https://doi.org/10.1088/1367-2630/ab97e8)
+- vlf-mri : data analysis of Fast Field Cycling Nuclear Magnetic Resonance data acquired with a Stelar Relaxometer (https://github.com/ReciprocalSpace/vlf_mri)
+- pycoilib : inductance calculator for coils of arbitrary geometries in space (https://github.com/ReciprocalSpace/pycoilib)
+- caracnl : caracterization of the non-linear electrical properties of superconducting resonators using Vector Network Analyser data and a non-linear model (https://github.com/ReciprocalSpace/caracnl)
