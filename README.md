@@ -11,7 +11,7 @@ My ambitions for the foreseeable future :
 
 How to reach me : aime.labbe@gmail.com
 
-*"What's a reciprocal space ?"* you may ask?
+*"What's a reciprocal space"* you may ask?
 
 The reciprocal space (or lattice) represents the Fourier transform of another lattice. It's one of the key concepts of Magnetic Resonance Imaging, and Solid-state physics, which are precisely my area of research! I develop superconducting coils for Magnetic Resonance Imaging.
 
