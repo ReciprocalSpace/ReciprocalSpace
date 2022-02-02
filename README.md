@@ -3,7 +3,7 @@ ReciprocalSpace
 Hey! I'm ReciprocalSpace!
 
 I’m interested in nerdy stuff, like physics, and math! I develop several libraries to help my colleagues (and I!) analyse their data for their academic research.
-If any of these libraries can be of use to you, please feel free use it! And if you'd like to contribute, even better!
+If any of these libraries can be of use to you, please feel free to use it! And if you'd like to contribute, that's even better!
 
 My ambitions for the foreseeable future :
 - Getting better at implementing design patterns
