@@ -18,6 +18,9 @@ The reciprocal space (or lattice) represents the Fourier transform of another la
 
 My projects so far...
 ---------------------
+- machine-learning: brain tumor segmentation using a U-net convolutional neural network (on Kaggle)
+  - https://www.kaggle.com/code/aimlabb/tumorsegmenter
+
 - vlf-mri : data analysis of Fast Field Cycling Nuclear Magnetic Resonance data acquired with a Stelar Relaxometer 
   - https://github.com/ReciprocalSpace/vlf_mri
 - pycoilib : inductance calculator for coils of arbitrary geometries in space (in dev!)
